@@ -1,0 +1,6 @@
+Install Packages
+Serilog.AspNetCore
+Serilog.Setting.Configuration
+Serilog.Enrichers.Environment
+Serilog.Enrichers.Thread
+Serilog.Enrichers.Process
